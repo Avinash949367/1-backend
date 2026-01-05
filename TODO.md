@@ -1,0 +1,3 @@
+- [ ] Add 'multer-storage-cloudinary' to package.json dependencies
+- [ ] Run npm install to install the new dependency
+- [ ] Verify that the package is installed
